@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Serlavignesh
 - 👀 I’m interested in creating websites and apps
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning python and mysql
 
 
 
